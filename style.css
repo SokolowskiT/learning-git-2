@@ -1,0 +1,25 @@
+body {
+    background-color: floralwhite;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.media {
+    
+    
+}
+
+.content {
+    width: 40%;
+}
+
+footer {
+    text-align: center;
+}
