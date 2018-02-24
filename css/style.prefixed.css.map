@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":3,"sources":["../sass/style.scss"],"names":[],"mappings":"AAAA;EACI,8BAA6B;CAChC;;AAED;EACI,mBAAkB;EAClB,YAAW;CACd;;AAED;EACI,qBAAa;EAAb,cAAa;EACb,uBAAmB;MAAnB,oBAAmB;CACtB;;AAED;EACI,WAAU;CACb;;AAED;EACI,mBAAkB;CACrB","file":"style.prefixed.css"}
+=======
+{"version":3,"sources":["../sass/style.scss","style.css"],"names":[],"mappings":"AAAA;IACI,8BAAa;CCChB;;AAED;IDEI,mBAAA;IACA,YAAa;CCAhB;;AAED;IACI,qBAAc;IAAd,cAAc;IACd,uBAAoB;QAApB,oBAAoB;CACvB;;AAED;IACI,WAAW;CACd;;AAED;IACI,mBAAmB;CACtB","file":"style.prefixed.css"}
+>>>>>>> task-6
