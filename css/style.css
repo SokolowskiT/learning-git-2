@@ -1,5 +1,5 @@
 body {
-	backgound-color: floralwhite;
+  background-color: floralwhite;
 }
 
 h1, h2, p {
@@ -8,8 +8,10 @@ h1, h2, p {
 }
 
 .container {
+  display: -ms-flexbox;
   display: flex;
-  align-items: center;
+  -ms-flex-align: center;
+      align-items: center;
 }
 
 .content {
@@ -19,3 +21,4 @@ h1, h2, p {
 footer {
   text-align: center;
 }
+/*# sourceMappingURL=style.css.map */
