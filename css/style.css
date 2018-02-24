@@ -1,21 +1,23 @@
 body {
-    background-color: floralwhite;
+  background-color: floralwhite;
 }
 
 h1, h2, p {
-    text-align: center;
-    color: blue;
+  text-align: center;
+  color: blue;
 }
 
 .container {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 .content {
-    width: 40%;
+  width: 40%;
 }
 
 footer {
-    text-align: center;
+  text-align: center;
 }
+
+/*# sourceMappingURL=style.css.map */
