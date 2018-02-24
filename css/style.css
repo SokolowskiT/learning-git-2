@@ -1,11 +1,21 @@
-.text {
-  display: flex;
-  flex-wrap: wrap;
-}
-
 body {
-  display: flex;
-  flex-wrap: wrap;
+    background-color: floralwhite;
 }
 
-/*# sourceMappingURL=style.css.map */
+h1, h2, p {
+    text-align: center;
+    color: blue;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.content {
+    width: 40%;
+}
+
+footer {
+    text-align: center;
+}

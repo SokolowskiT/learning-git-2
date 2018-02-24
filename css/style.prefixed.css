@@ -1,14 +1,23 @@
-.text {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+body {
+    background-color: floralwhite;
 }
 
-body {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+h1, h2, p {
+    text-align: center;
+    color: blue;
 }
-/*# sourceMappingURL=style.prefixed.css.map */
+
+.container {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+        align-items: center;
+}
+
+.content {
+    width: 40%;
+}
+
+footer {
+    text-align: center;
+}
